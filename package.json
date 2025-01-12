@@ -13,6 +13,11 @@
   },
   "dependencies": {
     "@expo/metro-runtime": "~4.0.0",
+    "@types/eslint": "^9.6.1",
+    "@typescript-eslint/eslint-plugin": "^8.19.1",
+    "@typescript-eslint/parser": "^8.19.1",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
     "expo": "~52.0.25",
     "expo-status-bar": "~2.0.1",
     "react": "18.3.1",
