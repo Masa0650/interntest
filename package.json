@@ -25,6 +25,7 @@
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-react-hooks": "^5.1.0",
     "expo": "~52.0.25",
+    "expo-image-picker": "~16.0.4",
     "expo-status-bar": "~2.0.1",
     "husky": "^9.1.7",
     "lint-staged": "^15.3.0",
