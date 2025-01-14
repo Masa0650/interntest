@@ -26,6 +26,7 @@
     "eslint-plugin-react-hooks": "^5.1.0",
     "expo": "~52.0.25",
     "expo-image-picker": "~16.0.4",
+    "expo-media-library": "~17.0.5",
     "expo-status-bar": "~2.0.1",
     "husky": "^9.1.7",
     "lint-staged": "^15.3.0",
@@ -36,6 +37,7 @@
     "react-native": "0.76.6",
     "react-native-gesture-handler": "~2.20.2",
     "react-native-reanimated": "~3.16.1",
+    "react-native-view-shot": "~4.0.3",
     "react-native-web": "~0.19.13"
   },
   "devDependencies": {
